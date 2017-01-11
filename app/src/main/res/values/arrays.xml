@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="type">
+        <item>@string/type_book</item>
+        <item>@string/type_disc</item>
+    </string-array>
+
+    <string-array name="subtype">
+        <item>@string/subtype_programming</item>
+        <item>@string/subtype_cooking</item>
+        <item>@string/subtype_esoteric</item>
+        <item>@string/subtype_cd</item>
+        <item>@string/subtype_dvd</item>
+    </string-array>
+
+</resources>

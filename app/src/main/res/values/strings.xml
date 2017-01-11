@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Books and CDs</string>
+
+    <string name="type_book">Book</string>
+    <string name="type_disc">Disc</string>
+    <string name="subtype_cooking">Cooking book</string>
+    <string name="subtype_programming">Programming book</string>
+    <string name="subtype_esoteric">Esoteric book</string>
+    <string name="subtype_cd">CD</string>
+    <string name="subtype_dvd">DVD</string>
+
+    <string name="type_text_full_formatted" formatted="false">%1$s : %2$s</string>
+
+    <string name="name_text_label">Name</string>
+    <string name="type_text_label">Type</string>
+    <string name="subtype_text_label">Subtype</string>
+    <string name="price_text_label">Price</string>
+    <string name="barcode_text_label">Barcode</string>
+    <string name="number_of_pages_text_label">Number of pages</string>
+    <string name="main_ingredient_text_label">Main ingredient</string>
+    <string name="programming_language_text_label">Programming language</string>
+    <string name="age_rating_text_label">Age rating</string>
+    <string name="type_of_content_text_label">Type of content</string>
+
+</resources>
